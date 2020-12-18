@@ -9,4 +9,5 @@
   > ### Example:
     >- In C we have ***arrays*** having a collection of only single datatype and we cannot add or delete particular element in it which makes us to write a function for it seperately.
     >- Whereas in our language we have ***lists*** which can have a collection of different datatypes(but cannot have another list in it.) and the above operations can easily be done with simple instructions. 
- 
+- We thought of many different ideas but for some ideas there are consequences that made us hit the dead end.     
+- In this manner the evolution our language happend.
